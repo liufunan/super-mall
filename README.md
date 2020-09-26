@@ -1,33 +1,37 @@
 # supermall
 
-## Project setup
-```
-![image](https://github.com/liufunan/super-mall/raw/master/z-img/1.jpg)
-```
-
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+### 项目基础展示
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1.首页
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/1.jpg)
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/2.jpg)
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/8.jpg)
+
+
+2.详情页
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/3.jpg)
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/4.jpg)
+
+
+3.购物车
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/5.jpg)
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/6.jpg)
+
+
+4.我的
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/7.jpg)
+
+
+
 
