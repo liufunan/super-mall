@@ -16,18 +16,20 @@ npm run build
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/1.jpg)
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/2.jpg)
-![image](https://github.com/liufunan/super-mall/blob/master/z-img/8.jpg)
+
 
 
 2.详情页  
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/3.jpg)
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/8.jpg)
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/4.jpg)
 
 
 3.购物车  
 
-![image](https://github.com/liufunan/super-mall/blob/master/z-img/5.jpg)
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/5.jpg)  
+
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/6.jpg)
 
 
