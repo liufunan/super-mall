@@ -11,14 +11,16 @@ npm run build
 ```
 
 ### 项目基础展示
-
+  
+  
 1.首页
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/1.jpg)
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/2.jpg)
 
 
-
+  
+  
 2.详情页  
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/3.jpg)
@@ -26,14 +28,16 @@ npm run build
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/4.jpg)
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/9.jpg)
 
-
+  
+  
 3.购物车  
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/5.jpg)  
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/6.jpg)
 
-
+  
+  
 4.我的  
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/7.jpg)
