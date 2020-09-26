@@ -19,18 +19,21 @@ npm run build
 
 
 
-2.详情页
+2.详情页  
+
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/3.jpg)
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/8.jpg)
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/4.jpg)
 
 
-3.购物车
+3.购物车  
+
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/5.jpg)
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/6.jpg)
 
 
-4.我的
+4.我的  
+
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/7.jpg)
 
 
