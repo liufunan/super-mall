@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+![image](https://github.com/liufunan/super-mall/raw/master/z-img/1.jpg)
 ```
 
 ### Compiles and hot-reloads for development
