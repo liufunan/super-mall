@@ -32,6 +32,7 @@ export class Goods {
     this.columns = columns
     this.services = services
     this.realPrice = itemInfo.lowNowPrice
+    // 保存一个价格，最底的价格
   }
 }
 

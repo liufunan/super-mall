@@ -3,7 +3,7 @@
     <!--父组件中遍历，遍历一个商品信息该组件中就拿到一个商品信息，
         然后获取一个商品的信息。这样就可以一次拿到所有商品的所有信息-->
 
-    <img :src="showImage" alt="" @load="imageLoad">
+    <img v-lazy="showImage" alt="" @load="imageLoad">
     <!--获取每个对象中的图片-->
     <div class="goods-info">
       <p>{{goodsItem.title}}</p>

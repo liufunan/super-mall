@@ -120,7 +120,6 @@
       //2.取消全局事件的监听*********
       // this.$bus.off("itemImageLoad",this.itemImgListener)
 
-
     },
     //声明周期函数,则组件创建完后，就发送网络请求
     created() {
