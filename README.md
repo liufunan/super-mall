@@ -29,7 +29,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![image](https://github.com/liufunan/super-mall/blob/master/z-img/1.jpg)
-![image](https://github.com/liufunan/super-mall/blob/master/1.jpg)
-![image](https://github.com/liufunan/super-mall/blob/master/pone.jpg)
-![image](https://github.com/liufunan/super-mall/raw/master/z-img/1.jpg)
+![image](https://github.com/liufunan/super-mall/blob/master/z-img/2.jpg)
 
